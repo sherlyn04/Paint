@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/Icono">
+        <file>Recursos/ahorrar.png</file>
+        <file>Recursos/ancho-del-texto.png</file>
+        <file>Recursos/circulo.png</file>
+        <file>Recursos/linea.png</file>
+        <file>Recursos/linea-curva-vectorial.png</file>
+        <file>Recursos/nuevo-documento.png</file>
+        <file>Recursos/rectangulo.png</file>
+        <file>Recursos/rgb.png</file>
+        <file>Recursos/splash.png</file>
+        <file>Recursos/salida.png</file>
+    </qresource>
+</RCC>
